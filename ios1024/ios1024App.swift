@@ -2,7 +2,7 @@
 //  ios1024App.swift
 //  ios1024
 //
-//  Created by Hans Dulimarta on 10/30/24.
+//  Created by Hans Dulimarta for CIS357
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct ios1024App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            GameView()
         }
     }
 }
